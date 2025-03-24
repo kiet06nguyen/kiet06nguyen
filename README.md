@@ -80,7 +80,7 @@
 <br>
 <div align=center>
   <a href="#" title="kiet06nguyen">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiet06nguyen&title_color=61dafb&text_color=ffffff&icon_color=60dafb&bg_color=20232a&langs_count=100&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiet06nguyen&title_color=60dafb&text_color=ffffff&icon_color=60dafb&bg_color=20232a&langs_count=100&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="kiet06nguyen">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kiet06nguyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
